@@ -1,6 +1,6 @@
 /**
  * @class FW.kb.Bug
- * @uses FW.kd.Some
+ * @uses FW.kb.Some
  */
 export class {
 	/**
