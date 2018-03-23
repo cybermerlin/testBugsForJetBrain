@@ -1,0 +1,23 @@
+{
+  "name": "testBugsForJetBrain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cybermerlin/testBugsForJetBrain.git"
+  },
+  "author": "cybermerlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cybermerlin/testBugsForJetBrain/issues"
+  },
+  "homepage": "https://github.com/cybermerlin/testBugsForJetBrain#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
