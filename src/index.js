@@ -1,1 +1,1 @@
-export FW from './fw';
+export FW from './FW';

@@ -1,4 +1,4 @@
-import FW from '..';
+import {FW} from '..';
 import '../Some.override';
 
 let d = new FW.kb.Some({id: 2});

@@ -2,7 +2,7 @@
  * @class FW.kb.Bug
  * @uses FW.kb.Some
  */
-export class {
+export default class {
 	/**
 	 * @param {FW.kb.Some|FW.kb.Some[]} d  // <<-- focus........
 	 */
